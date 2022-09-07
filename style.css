@@ -1,0 +1,8 @@
+th{
+    background-color: blueviolet; 
+    color: white;
+}
+table{
+    border-style: double;
+}
+td{border-style: solid;}
